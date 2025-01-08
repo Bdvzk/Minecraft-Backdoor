@@ -8,7 +8,7 @@ import org.bukkit.event.player.AsyncPlayerChatEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin implements Listener {
-
+//I wrote this code quickly, it's shitty, I know
         @Override
         public void onEnable() {
             // Rejestracja listenera do obsługi zdarzeń
